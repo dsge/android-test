@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GeriTest</string>
+    <string name="main_button">Te$ó</string>
+    <string name="main_text">Helló Gerx!</string>
+    <string name="second_text">Másodszorra is helló Gerx!</string>
+</resources>
